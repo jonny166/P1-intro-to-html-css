@@ -1,0 +1,65 @@
+/* * {
+   outline: 1px solid red !important;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+*/
+
+/* Header */
+
+.heading {
+	font: 340% "Lucida Grande", sans-serif;
+	color: #666;
+    margin-top: 42px;
+    margin-bottom: 32px;
+}
+
+
+/* Content */
+
+h2 {
+	margin-top: 0;
+	font: 200% "Lucida Grande", sans-serif;
+}
+
+.project1-body {
+	font: "Lucida Grande", sans-serif;
+	color: #666;
+}
+
+.subtitle {
+	color: #f07c17;
+    margin-bottom: 34px;
+}
+
+
+/* Left Column */
+
+ul {
+    line-height: 2em;
+    font: 114% "Lucida Grande", sans-serif;
+}
+
+.box {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+	outline: 1px solid #666;
+	padding: 20px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	outline-color: lightgray;
+}
+
+
+/* Main Panel */
+p {
+    font: 114%/1.95em "Lucida Grande", sans-serif;
+}
+
+
